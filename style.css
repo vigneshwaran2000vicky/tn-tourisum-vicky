@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.login{
+    padding: 4%;
+    text-align: center;
+    color: #085852;
+   background-color: rgb(212, 149, 212);
+    margin: 5% 30%  5% 30%;
+
+    border-radius: 30px;
+    
+}
+
+.one  a h6{
+     color: black;
+     float:inline-start;
+     margin-left: 20px;
+     margin-top: 10px;
+}
+
+.one  a h6:hover{
+    color: green; transform: scale(1,2);
+}
+.one2{
+    display: flex; justify-content:space-evenly; align-items: center;
+}
+.one3{margin-left: 50%;}
+
+
+
+.two3{
+     margin-left: 3%; margin-top: 5%; align-items: center; font-size: 40px; 
+   font-weight: bold
+    ;display: flex; justify-content: space-around;
+}
+.tep{
+    border-radius: 30px 0px 30px 0px; background-size: cover;
+}
+
+.img1:hover{cursor: pointer; transform:scale(1,0.9) ;border-radius: 30px;
+    
+}
+.four1{
+    display: flex; justify-content: center ;align-items:self-end; 
+}
+.text{
+    position: absolute; margin-left: 15px; margin-bottom: 20px; color: rgba(255, 255, 255, 0.466); font-style: italic;
+}
+.text:hover{color: rgb(255, 189, 224); cursor: pointer; transform: scaleY(0.9); }
+.four2{
+    display: flex; justify-content: center ;align-items:self-end;}
+ .four3{
+        display: flex; justify-content: center ;align-items:self-end;}
+   .four4{
+            display: flex; justify-content: center ;align-items:self-end;}
+
+.four{display: flex; justify-content: center; align-items: center; margin-top: 20px;}
+.four11{display: flex; justify-content: center; align-items: center; margin-top: 10px; margin-left: 2px;}
+.one1{background-color: rgb(42, 165, 159); height: 40px;}
+
+
+.chennai{text-align: center; background: url(road.jpg);padding: 10px 0px 10px 0px;
+background-repeat: no-repeat;  background-size: cover;} 
+marquee{background-color: silver; color: green;}
+
+.chennaifirst{padding: 80px 0 150px 20px; background-image: url(cort.jpg);
+background-repeat: no-repeat;  background-size:100% 130vh; justify-content: center; background-position: 80%; font-weight: bold;}
+.findmore{background-color: green; color:white; font-weight: bold; border: 0; border-radius: 3px;
+ width: 20%; height: 5%; margin-top: 20px;}
+ .findmore:hover{background-color: red; border-radius: 30px;}
+ .pic1:hover{width: 180px; transform: scale(1,0.9);color: black;}
+ .chennai1:hover{ background-color: rgb(0, 255, 64); text-transform:capitalize;    }
+ .chennaipic{display: flex; justify-content: space-around; background-color: beige; }
+ .chennaiend{text-align: center; color: rgb(10, 104, 7); margin-bottom: 10%;}
+
+
+ .ootyhead{text-align: center; background: url(road.jpg);padding: 10px 0px 10px 0px;
+    background-repeat: no-repeat;  background-size: cover;} 
+     .showcase{background: url(love\ ooty.jpg);padding: 40px 0 150px 20px;
+        background-repeat: no-repeat;  background-size:100% 180vh; justify-content: center; background-position: 80%; font-weight: bold; padding-bottom: 50px;}
+       .aa{ color: rgb(216, 0, 0); align-items: last baseline; font-weight: bold; padding: 250px 0 0 0 ;}
+       .ab{color: rgb(255, 242, 242); font-size: 15px;}
+       .pic2:hover{width: 180px;;color: black;transform: scale(1,0.9);}
+       .ooty1:hover{ background-color: rgb(0, 255, 64); text-transform:capitalize;    }
+       .ootybottom{display: flex; justify-content: space-around; background-color: beige;} 
+
+
+.krishhead{text-align: center; background: url(road.jpg);padding: 10px 0px 10px 0px;
+    background-repeat: no-repeat;  background-size: cover;}  
+.krishbottom{padding: 30px 0 70px 20px; background: url(krish\ view.jpg); background-repeat: no-repeat;   justify-content: center; background-position: 100%;
+background-size: cover; height: 70vh; }   
+.ka{margin-top: 90px; color: aliceblue;}  
+.krishend{display: flex; justify-content: space-around; margin-top: 20px; text-align: center;} 
+.more{background-color: green; color:white; font-weight: bold; border: 0; border-radius: 3px;
+    width: 20%; height: 8%; margin-top: 20px; }   
+    .more:hover{background-color: red; border-radius: 30px;}
+    .krishpic1:hover{transform: scale(1,0.9); }     
+    .krishpic11:hover { background-color: rgb(0, 255, 64); text-transform:capitalize;    }
+
+
+.pondihead{text-align: center; background: url(road.jpg);padding: 10px 0px 10px 0px;
+    background-repeat: no-repeat;  background-size: cover;}
+    .pondibottom{background: url(pondi\ bck.jpg);background-repeat: no-repeat;   justify-content: center; background-position: 100%;
+        background-size: cover; height: 80vh;}
+        .pa{padding:  90px 0 0 50px;}
+        .pb {padding-left: 50px;}
+        .pondiend{display: flex; justify-content: space-around; margin-top: 20px; text-align: center;}
+        .pondipic11:hover { background-color: rgb(0, 255, 64); text-transform:capitalize;    }
+        .pandipic1:hover{transform: scale(1,0.9); }   
